@@ -2,10 +2,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=roshankushwaha10&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshankushwaha10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<ul>
+  <li>✨ Creating bugs since 2022</li>
+<li>📚 I'm currently learning  Laravel and docker 🐳</li>
+<li>🎯 Goals: to become best web devloper ❄ and speak english 🚀</li>
+<li>🎲 And ... i play 🎸 guitar and ♟ chess online</li>
+</ul>
 
 ###
 
