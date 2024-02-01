@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <a href="">Roshan</a> and I'm a Full Stack Web Devloper, from<img width="20" logo height="20" src="https://github.com/roshankushwaha10/roshankushwaha10/assets/77830531/b2b50cc9-da88-40e1-ad7e-34e89ee85319"/>India</p>
+<p align="left">My name is <a href="">Roshan</a> and I'm a Full Stack Web Devloper, from <img width="20" logo height="20" src="https://github.com/roshankushwaha10/roshankushwaha10/assets/77830531/5ca1561e-a338-4222-8b67-857cbd23fdc5"/> India</p>
 
 ###
 
@@ -13,7 +13,7 @@
 <ul align="left">
   <li>✨ Creating bugs since 2022</li>
   <li>📚 I'm currently learning  Laravel and docker 🐳</li>
-  <li>🎯 Goals: to become best web devloper ❄ and speak english 🚀</li>
+  <li>🎯 Goals: to become best web devloper ❄ </li>
   <li>🎲 And ... i play 🎸 guitar and ♟ chess online</li>
 </ul>
 
