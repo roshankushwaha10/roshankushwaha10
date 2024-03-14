@@ -14,7 +14,7 @@
   <li>✨ Creating bugs since 2022</li>
   <li>📚 I'm currently learning  Laravel and docker 🐳</li>
   <li>🎯 Goals: to become best web devloper ❄ </li>
-  <li>🎲 And ... i play 🎸 guitar and ♟ chess online</li>
+  <li>🎲 Nice to see you on my github profile</li>
 </ul>
 
 ###
